@@ -15,8 +15,12 @@ __pycache__/
 data/raw/*
 data/processed/*
 results/tables/*
+results/models/*
+results/figures/*
 
 # Keep folders
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !results/tables/.gitkeep
+!results/models/.gitkeep
+!results/figures/.gitkeep
